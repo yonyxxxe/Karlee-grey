@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b33f67c-6bf9-4d09-acc9-a8d6119909bf/width=450/00002-3756059266.jpeg" ,Autumn Falls
+http://206.212.244.71:8080/4wVQA7/625159/215468
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/50/2a/d9/502ad95f6e4b2eb0bfb364df73d3a671.jpg", ALEXIS TEXAS
 http://206.212.244.71:8080/4wVQA7/625159/215446
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYq7qbDPOacmXBhwbqNdfqy6g6E9x3US63MQ&usqp=CAU", BLAIR WILLIAMS 
